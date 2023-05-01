@@ -20,11 +20,11 @@ pet_face_boxes.ipynb : Loads images and defines, trains, and compares different 
 Required Project Directory Structure:
 
 Project
-	- images (folder containing all image data)
-	- annotations
-		- xmls (folder containing all bounding box xml annotations)
-	- generate flipped images.ipynb
-	- pet_face_boxes.ipynb
+- images (folder containing all image data) <br>
+- annotations <br>
+- - xmls (folder containing all bounding box xml annotations) <br>
+- generate flipped images.ipynb <br>
+- pet_face_boxes.ipynb <br>
 
 ==========================================
 
